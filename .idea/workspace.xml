@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="336e70ad-01ba-410e-9534-c03ef99c8534" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/GUI/TaskGUI.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
