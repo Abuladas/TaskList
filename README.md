@@ -1,5 +1,6 @@
 # TaskList
 A simple Python program that can manage tasks and organize them, I like to call it "baby SQL.".
+*this branch has the GUI file
 -----------------------------------------------------------------------------------------
 
 This program allows the user to view, add, and remove tasks in a simple command-line interface. The tasks are stored in a list, and the program provides functions: 
